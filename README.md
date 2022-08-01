@@ -9,7 +9,6 @@ Repositório da Disciplina de Engenharia de Software (BCC35E) do curso de Ciênc
 
 Esta "versão" da disciplina foi inspirada na disciplina de Engenharia de Software proposta pelo [professor Vinicius Cardoso Garcia](http://viniciusgarcia.me) do CIN/UFPE e nas lições aprendidas com as versões anteriores da disciplina. O conteúdo discutido é baseado em sugestões e relatos do livro [Engenharia de Software Moderna](https://engsoftmoderna.info/), do professor Marco Tulio Valente do DCC/UFMG.
 
-## Objetivo do curso
 ## Ementa
 
 Engenharia de Software não é **SÓ** desenvolvimento de software. Existem uma série de processos envolvidos que colaboram na **construção** de um produto de software, desde a especificação do projeto, seu planejamento de execução, desenvolvimento, testes, manutenção e evolução. Portanto, Engenharia de Software  não se trata apenas de programação, uma atividade que pode ser desenvolvida de forma independente de outras pessoas, mas sim de um conjunto de atividades, tarefas e papéis que requerem trabalho em equipe (**social**) e capacidade de comunicação (socialização). Neste curso, vamos estudar princípios da Engenharia de Software, seus objetivos, atividades, papéis, recursos, como planejar um projeto, descobrir requisitos, abstrair uma proposta de construção de um produto de software e apresentar uma solução que será construída de forma iterativa, bem como a continuidade da vida útil deste produto.
