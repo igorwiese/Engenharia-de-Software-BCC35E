@@ -4,7 +4,7 @@ Repositório da Disciplina de Engenharia de Software (BCC35E) do curso de Ciênc
 
 **Profesor:** Igor Wiese <br/>
 **email:** igor.wiese@gmail.com | igor@utfpr.edu.br <br/>
-**homepage:** igorwiese.com <br/>
+**homepage:** [igorwiese.com](http://igorwiese.com/) <br/>
 **Horário de P-Aluno:** Terça N1 (18:40 - 19:30), Quinta T1 (13:00 - 13:50) e N1 (18:40 - 19:30) <br/>
 
 Esta "versão" da disciplina foi inspirada na disciplina de Engenharia de Software proposta pelo [professor Vinicius Cardoso Garcia](http://viniciusgarcia.me) do CIN/UFPE e nas lições aprendidas com as versões anteriores da disciplina. O conteúdo discutido é baseado em sugestões e relatos do livro [Engenharia de Software Moderna](https://engsoftmoderna.info/), do professor Marco Tulio Valente do DCC/UFMG.
@@ -17,20 +17,15 @@ Engenharia de Software não é **SÓ** desenvolvimento de software. Existem uma 
 
 O objetivo principal deste curso é estudar, analisar, discutir, e aplicar os fundamentos de Engenharia de Software. Do ponto de vista prático, os conceitos estudados serão aplicados no desenvolvimento de um projeto de um sistema de informação simples.
 
+## Resultados de aprendizagem do aluno do curso
+Após a conclusão deste curso, os alunos serão capazes de demonstrar o seguinte
+competências avançadas:
 Os estudantes irão:
 - Entender os novos desafios, oportunidades e problemas em aberto do novo cenário da indústria de software como serviço e as principais diferença sem relação ao software empacotado;
 - Desenvolver um projeto de um sistema de informação simples desde a concepção através de planejamento, desenvolvimento, avaliação/teste, implantação e operação, enfrentando os desafios inerentes de cada fase;
 - Compreender e utilizar ferramentas e metodologias ágeis de desenvolvimento, incluindo estórias de usuários e controle de versão para desenvolvimento baseado em times;
 - Desenvolver habilidades técnicas e de colaboração para trabalhar em times de desenvolvimento software;
 - Compreender e aplicar estruturas, padrões e técnicas fundamentais de programação, incluindo padrões de projeto para arquitetura de software, refatoração, entre outras, para melhorar a capacidade de manutenção, modularidade e reutilização de software.
-
-
-## Resultados de aprendizagem do aluno do curso
-Após a conclusão deste curso, os alunos serão capazes de demonstrar o seguinte
-competências avançadas:
-* entender como uma equipe interage e colabora para desenvolver um software;
-* usar sistema de controle de versão e rastreador de problemas como ferramentas de desenvolvimento;
-* avaliar e revisar as contribuições do código;
 
 
 ## Metodologia
@@ -76,7 +71,6 @@ A média da disciplina será calculada da seguinte forma:
 * [Não sei inglês, e agora? | Podcast FalaDev #03](https://www.youtube.com/watch?v=keMIEpZxQNI)
 * [What I learned from 6 months contributing to open source](https://hackernoon.com/what-i-learned-from-6-months-contributing-to-open-source-daa1cdafb9fb)
 * [Software Engineering for Disruptive Innovation](https://hackernoon.com/software-engineering-for-disruptive-innovation-d882f53788da)
-* [Ruby On Rails: What It Is and Why We use.](https://hackernoon.com/ruby-on-rails-what-it-is-and-why-we-use-2b295b54838d)
 * [Essential skills and tools every Javascript developer should master](http://www.thecalmcoder.com/general-developer-skills/essential-skills-and-tools-every-javascript-developer-should-master/)
 * [Measuring Developer Productivity](https://hackernoon.com/measure-a-developers-impact-e2e18593ac79)
 * [Mapping Go-to-Market to Customers: ‘The Coverage Matrix’](https://a16z.com/2018/09/13/how-what-sell-customers-markets/)
