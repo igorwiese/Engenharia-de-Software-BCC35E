@@ -33,6 +33,32 @@ competências avançadas:
 * avaliar e revisar as contribuições do código;
 
 
+## Metodologia
+
+Utilizaremos uma abordagem aderente a essa jornada de educação digital. Para isso, temos uma composição metodológica inspirada em Sala de Aula Invertida, Pensamento de Design, Design de Experimentação e Ensino Baseado em Desafios. Trabalharemos com missões e para cada missão os alunos devem -- individualmente ou em grupo, isso vai se ajustando ao longo da jornada - inicialmente individual -- produzirem algo -- um texto, um sistema, uma imagem, um infográfico, um video, etc. -- que vai ser definido em função de cada missão (seus prazos são definidos a depender da missão em questão).
+
+Temos como base os princípios: 
+- Conhecimento como “obra aberta” (em vez de “mensagem fechada”);
+- Curadoria de conteúdos, sínteses e roteiros de trabalho;
+- Ambiências computacionais diversas;
+- Aprendizagem em rede, colaborativa (em vez de aprendizagem isolada);
+- Divergência, convergência e conversação entre todos, em interatividade;
+- Atividades autorais inspiradas nas práticas da cibercultura (em vez de “estudo dirigido”);
+- Mediação online para colaboração (em vez de “tutoria reativa”); e,
+- Jornada formativa e colaborativa, baseada em competências (em vez de apenas exames presenciais). 
+ 
+Do ponto de vista de plataforma de apoio a jornada de educação digital, utilizamos um servidor do [Discord](https://discord.gg/GAjWC5dz) para comunicação assíncrona e ambientes de reunião (sala de audio e video) para encontros fortuitos, [Mural](https://www.mural.co/) para dinâmicas de trabalho síncrono e para as missões utilizados a plataforma [Strateegia](https://app.strateegia.digital/dashboard/public-link/4qYOTW). 
+
+## Avaliação
+
+A avaliação neste curso se dará da seguinte forma: os aspectos teóricos serão avaliados por meio das missões com caráter de avaliação individual, mas vale ressaltar que as missões possuem uma natureza de execução prática; a consolidação dos aspectos teóricos discutidos ao longo da disciplina serão avaliados por meio de um exercício prático e em equipe que consistirá no desenvolvimento de um projeto de sistema de informação simples.
+Quanto aos exercícios escolares no formato de missões.
+A média da disciplina será calculada da seguinte forma:
+- Média = (3 * NotaMissoes + 7 * NotaProjeto) / 10, onde
+  - NotaMissoes é a nota individual do estudante referente às missões;
+  - NotaProjeto é a nota do projeto sera calculada com base nos seguintes aspectos: 
+  - avaliação do desempenho nas iterações; escopo do cenário; identificação das personas; concepção do Plano de MVP; especificação da Proposta de Solução; projeto da Arquitetura; especificação e implementação de Testes; Implantação da solução; Relato de Lições Aprendidas & Decisões de Projeto.
+
 ## Ferramentas
 
 * [GitHub](https://github.com) (sistema de controle de versão distribuída, rápido e escalável).
