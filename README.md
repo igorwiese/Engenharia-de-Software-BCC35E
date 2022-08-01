@@ -1,4 +1,4 @@
-| [Home](https://github.com/igorwiese/Engenharia-de-Software-BCC35E) | [Projeto](/pages/projeto.md) | [Agenda](/pages/outline.md) | [Equipes](/pages/equipes.md) |
+| [Home](https://github.com/igorwiese/Engenharia-de-Software-BCC35E) | [Agenda](/pages/outline.md) | [Equipes](/pages/equipes.md) |
 
 
 # Engenharia de Software (BCC35E)
