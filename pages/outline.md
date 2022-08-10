@@ -6,8 +6,6 @@ Sigam aqui o planejamento das aulas. A regra "geral" (cheia de exceções) é qu
 
 É possível que mudanças aconteçam no decorrer do semestre. FIQUEM LIGADOS.
 
-[comment] <> Para as atividades olhe [aqui](assignments.md)
-
 
 Dia             | Conteúdo                                                                          | Tipo interacão
 ----------------|-----------------------------------------------------------------------------------|--------------------
