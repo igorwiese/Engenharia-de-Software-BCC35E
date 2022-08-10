@@ -11,8 +11,8 @@ Para as atividades olhe [aqui](assignments.md)
 Dia             | Conteúdo                                                                          | Tipo interacão
 ----------------|-----------------------------------------------------------------------------------|--------------------
  11/08/22 (Qui) | [Introdução à disciplina.](../notes/Lecture_01.pdf)                                  | Aula Teórica
- 15/08/22 (Seg) | [Processos de Software.](notes/Lecture_02.pdf)                                    | Aula Teórica
- 18/08/22 (Qui) | [Engenharia de Requisitos.](notes/Lecture_03.pdf)                                 | Aula Teórica
+ 15/08/22 (Seg) | [Processos de Software.](../notes/Lecture_02.pdf)                                    | Aula Teórica
+ 18/08/22 (Qui) | [Engenharia de Requisitos.](../notes/Lecture_03.pdf)                                 | Aula Teórica
  22/08/22 (Seg) |                                                                                   | Aula Teórica
  25/08/22 (Qui) |                                                                                   | Aula Teórica
  29/08/22 (Seg) |                                                                                   | Aula Teórica
