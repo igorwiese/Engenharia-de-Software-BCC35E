@@ -9,10 +9,8 @@ Sigam aqui o planejamento das aulas. A regra "geral" (cheia de exceções) é qu
 
 Dia             | Conteúdo                                                                          | Tipo interacão
 ----------------|-----------------------------------------------------------------------------------|--------------------
- 11/08/22 (Qui) | [Introdução à disciplina.](../notes/Lecture_01.pdf)                               | Aula Teórica + [Atividade: Onboard ES](https://app.strateegia.digital/journey/62e81d80bf92ea23d5b5fd8b/map/62e81d80bf92ea23d5b5fd8c/)
- 
- 15/08/22 (Seg) | [Processos de Software.](../notes/Lecture_02.pdf)                                 | Aula Teórica [Atividade: Visão Geral ES](https://app.strateegia.digital/journey/62e81d80bf92ea23d5b5fd8b/map/62e81d80bf92ea23d5b5fd8c/)
- 
+ 11/08/22 (Qui) | [Introdução à disciplina.](../notes/Lecture_01.pdf)                               | Aula Teórica + Atividade Strateegia
+ 15/08/22 (Seg) | [Processos de Software.](../notes/Lecture_02.pdf)                                 | Aula Teórica + Atividade Strateegia
  18/08/22 (Qui) | [Engenharia de Requisitos.](../notes/Lecture_03.pdf)                              | Aula Teórica
  22/08/22 (Seg) |                                                                                   | Aula Teórica
  25/08/22 (Qui) |                                                                                   | Aula Teórica
