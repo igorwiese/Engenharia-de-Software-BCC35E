@@ -1,6 +1,6 @@
 | [Home](https://github.com/igorwiese/Engenharia-de-Software-BCC35E) | [Agenda](/pages/outline.md) | [Equipes](/pages/equipes.md) |
 
-## Agenda de aulas 2022-1
+## Agenda de aulas 2022-2
 
 Sigam aqui o planejamento das aulas. A regra "geral" (cheia de exceções) é que teremos aula teórica na quinta e atividades e discussões focadas nas segundas.
 
