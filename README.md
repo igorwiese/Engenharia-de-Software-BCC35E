@@ -8,7 +8,7 @@ Repositório da Disciplina de Engenharia de Software (BCC35E) do curso de Ciênc
 **Profesor:** Igor Wiese <br/>
 **email:** igor.wiese@gmail.com | igor@utfpr.edu.br <br/>
 **homepage:** [igorwiese.com](http://igorwiese.com/) <br/>
-**Horário de P-Aluno:** Terça N1 (18:40 - 19:30), Quinta T1 (13:00 - 13:50) e N1 (18:40 - 19:30) <br/>
+**Horário de P-Aluno:** Terça N2 e N3, Quinta T2 e T3 <br/>
 
 Esta "versão" da disciplina foi inspirada na disciplina de Engenharia de Software proposta pelo [professor Vinicius Cardoso Garcia](http://viniciusgarcia.me) do CIN/UFPE e nas lições aprendidas com as versões anteriores da disciplina. O conteúdo discutido é baseado em sugestões e relatos do livro [Engenharia de Software Moderna](https://engsoftmoderna.info/), do professor Marco Tulio Valente do DCC/UFMG.
 
@@ -44,8 +44,7 @@ Temos como base os princípios:
 - Atividades autorais inspiradas nas práticas da cibercultura (em vez de “estudo dirigido”);
 - Mediação online para colaboração (em vez de “tutoria reativa”); e,
 - Jornada formativa e colaborativa, baseada em competências (em vez de apenas exames presenciais). 
- 
-Do ponto de vista de plataforma de apoio a jornada de educação digital, utilizamos um servidor do [Discord](https://discord.gg/GAjWC5dz) para comunicação assíncrona e ambientes de reunião (sala de audio e video) para encontros fortuitos, [Mural](https://www.mural.co/) para dinâmicas de trabalho síncrono e para as missões utilizados a plataforma [Strateegia](https://app.strateegia.digital/dashboard/public-link/4qYOTW). 
+
 
 ## Avaliação
 
