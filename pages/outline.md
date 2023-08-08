@@ -9,7 +9,7 @@ Sigam aqui o planejamento das aulas. A regra "geral" (cheia de exceções) é qu
 
 Dia             | Conteúdo                                                                          | Tipo interacão
 ----------------|-----------------------------------------------------------------------------------|--------------------
- 02/03/23 (Qui) | [Introdução à disciplina.](../notes/Lecture_01.pdf)                               | Aula Teórica 
- 09/03/23 (Seg) | [Processos de Software.](../notes/Lecture_02.pdf)                                 | Aula Teórica 
- 13/03/23 (Qui) | [Engenharia de Requisitos.](../notes/Lecture_03.pdf)                              | Aula Teórica
+ Aula1          | [Introdução à disciplina.](../notes/Lecture_01.pdf)                               | Aula Teórica 
+ Aula2          | [Processos de Software.](../notes/Lecture_02.pdf)                                 | Aula Teórica 
+ Aula3          | [Engenharia de Requisitos.](../notes/Lecture_03.pdf)                              | Aula Teórica
 
